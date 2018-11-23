@@ -6,7 +6,7 @@ let externalFile = require("./second.js");
 externalFile.myRemoteFunction();
 
 console.log("testing from main.js");
-console.log("another test");
+console.log("another test....");
 
 },{"./second.js":2}],2:[function(require,module,exports){
 "use strict";
